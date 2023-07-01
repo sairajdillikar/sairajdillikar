@@ -1,13 +1,12 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ROS
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working on Assembly planning and control of a Multi-Arm Robot for On-orbit operations using ROS
+- 🌱 I’m currently learning Robot Operating System (ROS)
+- 👯 I’m looking to collaborate on ROS based projects
+- 🤔 I’m looking for help with a career in space robotics
+- 💬 Ask me about space and robots
 - 📫 How to reach me: sairajdillikar@gmail.com
 
- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sairajdillikar&theme=radical&layout=compact&size_weight=0.5&count_weight=0.5"/> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
