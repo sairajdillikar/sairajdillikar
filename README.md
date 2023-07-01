@@ -11,4 +11,4 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sairajdillikar&theme=radical&layout=compact&size_weight=0.5&count_weight=0.5"/> </p>
 
-<img align="left" src="https://komarev.com/ghpvc/?username=sairajdillikar&label=Profile%20views&color=0e75b6&style=flat" alt="sairajdillikar" /> 
+<img align="right" src="https://komarev.com/ghpvc/?username=sairajdillikar&label=Profile%20views&color=0e75b6&style=flat" alt="sairajdillikar" /> 
