@@ -7,6 +7,7 @@
 - 💬 Ask me about space and robots
 - 📫 How to reach me: sairajdillikar@gmail.com
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sairajdillikar&theme=radical&layout=compact&size_weight=0.5&count_weight=0.5"/> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
