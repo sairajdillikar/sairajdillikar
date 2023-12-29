@@ -1,11 +1,10 @@
 ### Hi there 👋, I'm Sairaj Dillikar!
 
 - 🔭 My Master's thesis titled "[Motion Planning and Control of a Multi-Arm Robot for On-orbit operations](https://github.com/sairajdillikar/Motion-Planning-and-Control-of-Multi-Arm-Robot-for-In-Orbit-Operations)" using ROS
-- 👯 I’m looking to collaborate on ROS based projects
-- 🤔 I’m looking for help with a career in space robotics
+- 🤔 I’m looking for assistance with a career in space robotics
 - 💬 Ask me about space and robots
 
--  📫 How to reach me:
+-  📫 Reach me out through:
 
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/SairajDillikar) &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/sairaj-dillikar/) &nbsp; 
 [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/sairaj.dillikar/) &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/youtube.png" width="3.5%"/>](https://www.youtube.com/@SairajDillikar) &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>](mailto:sairajdillikar@gmail.com) &nbsp;
