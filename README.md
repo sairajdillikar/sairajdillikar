@@ -1,7 +1,6 @@
 ### Hi there 👋, I'm Sairaj Dillikar!
 
-- 🔭 I’m currently working on my Master's thesis on Motion Planning and Control of a Multi-Arm Robot for On-orbit operations using ROS
-- 🌱 I’m currently learning Robot Operating System (ROS)
+- 🔭 My Master's thesis titled "[Motion Planning and Control of a Multi-Arm Robot for On-orbit operations](https://github.com/sairajdillikar/Motion-Planning-and-Control-of-Multi-Arm-Robot-for-In-Orbit-Operations)" using ROS
 - 👯 I’m looking to collaborate on ROS based projects
 - 🤔 I’m looking for help with a career in space robotics
 - 💬 Ask me about space and robots
