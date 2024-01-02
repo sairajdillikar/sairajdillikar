@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Sairaj Dillikar! I have a Master's Degree in Robotics (2022-23) from Cranfield University.
 
-- 🔭 My Master's thesis titled "[Motion Planning and Control of a Multi-Arm Robot for On-orbit operations](https://github.com/sairajdillikar/Motion-Planning-and-Control-of-Multi-Arm-Robot-for-In-Orbit-Operations)" using ROS
+- 🔭 My Master's thesis titled "[Motion Planning and Control of a Multi-Arm Robot for On-orbit operations](https://github.com/sairajdillikar/Motion-Planning-and-Control-of-Multi-Arm-Robot-for-In-Orbit-Operations)" was developed in C++ and to simulate on ROS-Gazebo based platform
 - 🤔 I’m looking for assistance with a career in space robotics
 - 💬 Ask me about space and robots
 
